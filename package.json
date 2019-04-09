@@ -1,0 +1,19 @@
+{
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.4",
+    "vue": "^2.6.10",
+    "vue-server-renderer": "^2.6.10"
+  },
+  "name": "feedback",
+  "version": "0.0.1",
+  "description": "利用Node Express和VueSSR搭建模拟服务器，实现制作评论功能 0.0.1版本，未简化，未添加css文件，form使用的是get方法",
+  "main": "app.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "ssevenk",
+  "license": "ISC"
+}
+
